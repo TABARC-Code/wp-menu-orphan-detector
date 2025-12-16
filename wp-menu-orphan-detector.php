@@ -3,7 +3,7 @@
  * Plugin Name: WP Menu Orphan Detector
  * Plugin URI: https://github.com/TABARC-Code/wp-menu-orphan-detector
  * Description: Scans nav menus for items that point at missing posts, terms or broken internal URLs and lists them so I know what is quietly rotting.
- * Version: 1.0.0
+ * Version: 1.0.0.6
  * Author: TABARC-Code
  * Author URI: https://github.com/TABARC-Code
  * License: GPL-3.0-or-later
